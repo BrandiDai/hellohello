@@ -7,7 +7,7 @@
   "dependencies": {
     "@react-native-community/netinfo": "4.6.0",
     "@segment/analytics-react-native": "^1.1.0",
-    "expo": "~36.0.0",
+    "expo": "~48.0.0",
     "expo-analytics-amplitude": "~8.0.0",
     "expo-analytics-segment": "~8.0.0",
     "expo-application": "~2.0.0",
